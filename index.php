@@ -143,7 +143,7 @@
         </div>
 
         <div id="copyright">
-            &copy; 2023- Todos os direitos são reservados - Desenvolvido por Giovana 
+            &copy; 2023- Todos os direitos são reservados - Desenvolvido por lucas
         </div>
     </footer>
     <script src="assets/js/main.js"> </script>
